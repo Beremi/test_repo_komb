@@ -1,1 +1,3 @@
 Druhý soubor ve vetvi main
+Druhý soubor ve vetvi nova vetev
+Tady jsem to sloučil
